@@ -51,7 +51,7 @@ export default function LandingPage() {
             Get Started Now <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
           </Link>
           <button className="w-full sm:w-auto bg-white/5 border border-white/10 text-white px-10 py-5 rounded-2xl font-bold flex items-center justify-center gap-2 hover:bg-white/10 transition-all italic">
-            <Play size={18} fill="white" /> Watch A Video
+            <Play size={18} fill="white" /> Request a demo
           </button>
         </div>
         <p className="mt-10 text-slate-500 text-sm font-bold uppercase tracking-[0.2em] italic">Make you and your team more productive.</p>
